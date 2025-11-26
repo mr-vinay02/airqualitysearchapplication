@@ -26,18 +26,17 @@ Communication	REST API
 Live AQI Source	WAQI.org API
 
 
-📁 Project Structure
 airqualitysearchapplication/
 │
-├── airqualitysearchapplication/
-│   ├── src/
-│   ├── pom.xml
-│   └── README.md (Backend info)
+├── backend/
+│ ├── src/
+│ ├── pom.xml
+│ └── README.md (Backend docs)
 │
 ├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
+│ ├── src/
+│ ├── public/
+│ └── package.json
 │
 └── README.md (This file)
 
